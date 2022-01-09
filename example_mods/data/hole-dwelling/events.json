@@ -1,0 +1,249 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "philly",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				10000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12500,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				17500,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				32500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.020",
+						""
+					]
+				]
+			],
+			[
+				33125,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				33750,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						""
+					]
+				]
+			],
+			[
+				34218.75,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				34375,
+				[
+					[
+						"Add Camera Zoom",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				80156.25,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						" "
+					]
+				]
+			],
+			[
+				87500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						" "
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						" "
+					]
+				]
+			],
+			[
+				92500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						" "
+					]
+				]
+			],
+			[
+				95000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						" "
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						" "
+					]
+				]
+			],
+			[
+				100000,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						" "
+					]
+				]
+			],
+			[
+				101250,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						" "
+					]
+				]
+			],
+			[
+				102500,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						" "
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 96,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "hole-dwelling"
+	}
+}

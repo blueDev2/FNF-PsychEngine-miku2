@@ -1,0 +1,40 @@
+{
+	"storyName": "Ft. Miku!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "miku",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Anamanaguchi",
+			"dad",
+			[
+				0,
+				213,
+				253
+			]
+		],
+		[
+			"hole-dwelling",
+			"dad",
+			[
+				0,
+				213,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
